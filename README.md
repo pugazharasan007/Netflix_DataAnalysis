@@ -35,7 +35,7 @@ This project involves analyzing a Netflix dataset with the following columns:
 - Thanks to the open-source community for providing tools and libraries that made this analysis possible.
 
 **Contact**
-If you have any questions or would like to discuss this project, feel free to reach out:
-- Linkedin: https://www.linkedin.com/in/pugazharasan312/
-- Gmail: pugazharasan312@gmail.com
+  If you have any questions or would like to discuss this project, feel free to reach out:
+  - Linkedin: https://www.linkedin.com/in/pugazharasan312/
+  - Gmail: pugazharasan312@gmail.com
 
