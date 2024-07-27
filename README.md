@@ -26,3 +26,15 @@ This project involves analyzing a Netflix dataset with the following columns:
 - **Visualization**: Created insightful visualizations, such as yearly title additions, top countries with most titles, and a word cloud of common words in descriptions.
 - **Advanced Analysis**: Investigated average duration, distribution of ratings, and correlation between release year and date added.
 
+**Files Included**
+- **notebook.ipynb**: [Jupyter notebook containing the analysis code and results.](https://github.com/pugazharasan007/Netflix_DataAnalysis/blob/main/Netflix_.ipynb)
+- **data/:** [Directory containing the dataset used for analysis](https://github.com/pugazharasan007/Netflix_DataAnalysis/blob/main/Netflix%20Data.xls).
+- **README.md:**[ README.md](https://github.com/pugazharasan007/Netflix_DataAnalysis/blob/main/README.md)
+
+**Acknowledgements**
+- Thanks to the open-source community for providing tools and libraries that made this analysis possible.
+**Contact**
+If you have any questions or would like to discuss this project, feel free to reach out:
+Linkedin: https://www.linkedin.com/in/pugazharasan312/
+Gmail: pugazharasan312@gmail.com
+
